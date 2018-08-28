@@ -1,0 +1,19 @@
+{
+  "name": "ddttoschema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ddl": "^2.0.2",
+    "minimatch": "^3.0.2",
+    "pg": "^7.4.3",
+    "pg-json-schema-export": "^0.13.7",
+    "pg-native": "^3.0.0",
+    "sql-ddl-to-json-schema": "^2.2.0"
+  }
+}
